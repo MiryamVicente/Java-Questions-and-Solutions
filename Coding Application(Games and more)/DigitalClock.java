@@ -2,7 +2,9 @@ public class DigitalClock {
         public static void main(String[] args) throws InterruptedException {
  
         //Variables
-        int hours = 0, minutes = 0, seconds = 0;
+        int hours = 0;
+        int minutes = 0;
+        int seconds = 0;
  
         
         while (true) {
